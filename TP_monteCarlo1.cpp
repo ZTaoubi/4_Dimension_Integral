@@ -1,3 +1,5 @@
+// Ce projet fait partie de mon travail académique dans le cadre du cours dirigé par mon professeur, Monsieur Krim.
+// L'objectif est d'estimer une intégrale en quatre dimensions en utilisant la méthode de Monte Carlo en C++.
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
